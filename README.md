@@ -21,8 +21,9 @@ Experience the simplicity and functionality of the Flutter Counter App! This sle
 - **Widget Management:** Demonstrates the use of both Stateless and Stateful widgets for optimal performance and state management.
 
 ### Preview
+## Image Counter App
+![Blue Modern Money Managing Mobile App Promotion Facebook Ad](https://github.com/FahadFarooq40/Counter-App/assets/104043766/d324ff17-6395-4f86-b2a7-757f9bf3e4e4)
 
-![Counter App Image 1](https://github.com/FahadFarooq40/Counter-App/assets/104043766/6c60fd9f-2ca5-41da-9d87-4a9818fc0032)!
 
 
 ### Show Your Support
